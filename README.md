@@ -9,10 +9,9 @@ hvd007-harsh/hvd007-harsh is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y29kZXJ8ZW58MHx8MHx8&w=1000&q=80"/>
-    <button href = "mailto:harshdixit1981@gmail.com.com">SendEmail</button>
     <a href = "mailto:harshdixit1981@gmail.com.com">Send Email</a>
+<a href="https://www.buymeacoffee.com/travelphotovlog" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 
-send me mail 
 
 
