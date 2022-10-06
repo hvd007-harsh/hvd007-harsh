@@ -12,5 +12,5 @@ You can click the Preview link to take a look at your changes.
 
 send me mail 
 
-    <button href = "mailto: harshdixit1981@gmail.com.com">Send Email</button>
+    <button href = "mailto: harshdixit1981@gmail.com.com" placeholder=Send Email />
 
