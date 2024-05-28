@@ -1,4 +1,4 @@
-#-> HARSH VARDHAN DIXIT
+# HARSH VARDHAN DIXIT
 - 👋 Hi, I’m @hvd007-harsh
 - 👀 I’m interested in Studying 
 - 🌱 I’m currently learning Upcoming technologies
