@@ -1,7 +1,8 @@
+#-> HARSH VARDHAN DIXIT
 - 👋 Hi, I’m @hvd007-harsh
 - 👀 I’m interested in Studying 
 - 🌱 I’m currently learning Upcoming technologies
-- 💞️ I’m looking to collaborate on Embedded And Web Development projects
+- 💞️ I’m looking to collaborate on Embedded projects
 - 📫 How to reach me Send me Email or message on Linkedin
 
 <!---
