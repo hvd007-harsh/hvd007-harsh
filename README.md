@@ -4,6 +4,7 @@
 # Education : 
 ## Electronics and Communication Engineering (VBSPU)
 ## Working on Proffessional Industrial Projects
+## Holded since 2019-24
 - 👋 Hi, I’m @hvd007-harsh
 - 👀 I’m interested in Studying 
 - 🌱 I’m currently learning Upcoming technologies
