@@ -1,5 +1,9 @@
-## HARSH VARDHAN DIXIT
-# Embedded Software | Firmware| System Engineer
+# HARSH VARDHAN DIXIT
+## Embedded Software | Firmware| System Engineer
+### Working on latest technologies 
+# Education : 
+## Electronics and Communication Engineering (VBSPU)
+## Working on Proffessional Industrial Projects
 - 👋 Hi, I’m @hvd007-harsh
 - 👀 I’m interested in Studying 
 - 🌱 I’m currently learning Upcoming technologies
